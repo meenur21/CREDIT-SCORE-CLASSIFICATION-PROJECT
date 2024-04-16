@@ -13,8 +13,11 @@ Data Description:
 Our dataset includes various features such as:-
 
 ID and Customer_ID: Unique identifiers.
+
 Month: Time period of data record.
+
 Age, Occupation, Annual_Income, Num_Bank_Accounts, etc.: Customer demographics and financial details.
+
 Credit_Score: Target variable for classification.
 
 
